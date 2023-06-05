@@ -2,6 +2,14 @@
     margin:0;
     padding: 10;
 }
-header{
-    background-color: blue;
+
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+}
+
+.cabecalho-lista-item { 
+    display: inline-block;
 }
